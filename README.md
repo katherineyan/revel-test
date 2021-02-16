@@ -1,4 +1,7 @@
-# revel-test
+# Revel Test Application
 
-## Setup
-Use https://revel.github.io/tutorial/createapp.html to create a new revel application
+## 1. Setup
+Use https://revel.github.io/tutorial/createapp.html to create a new revel application.
+
+## 2. Function
+Dunno yet
